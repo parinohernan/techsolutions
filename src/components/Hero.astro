@@ -1,50 +1,55 @@
 ---
 import { Image } from 'astro:assets';
 import techSolutionsLogo from '../assets/logo.png';
+import { motion } from "framer-motion";
 ---
 
 <section class="hero">
-  <div class="container">
     <div class="container">
+      <motion.div 
+        client:load
+        className="logo-container"
+        initial={{ x: "-100%", scale: 4, opacity: 0.5 }}
+        animate={{ x: 0, scale: 1, opacity: 1 }}
+        transition={{ duration: 2, ease: "easeOut" }}
+      >
+        <Image 
+          src={techSolutionsLogo} 
+          alt="TechSolutions Logo" 
+          width={180} 
+          height={180}
+          class="logo"
+        />
+        <!-- <span class="hero-title">TechSolutions</span> -->
+        <span style="color: #000000; background-color: #ffffff;">T</span>
+        <span style="color: #000000; background-color: #ffffff;">e</span>
+        <span style="color: #000000; background-color: #ffffff;">c</span>
+        <span style="color: #000000; background-color: #ffffff;">h</span>
+        <span style="color: #2486d6; background-color: #ffffff;">s</span>
+        <span style="color: #000000; background-color: #ffffff;">o</span>
+        <span style="color: #000000; background-color: #ffffff;">l</span>
+        <span style="color: #000000; background-color: #ffffff;">u</span>
+        <span style="color: #000000; background-color: #ffffff;">t</span>
+        <span style="color: #2486d6; background-color: #ffffff;">i</span>
+        <span style="color: #000000; background-color: #ffffff;">o</span>
+        <span style="color: #000000; background-color: #ffffff;">n</span>
+        <span style="color: #2486d6; background-color: #ffffff;">s</span>
+      </motion.div>
       <h1>Soluciones Tecnológicas para PYMES</h1>
-        <div class="logo-container" style="width: 505px; height: 50px; padding-left: 10px;">
-            
-                <Image 
-                    src={techSolutionsLogo} 
-                    alt="TechSolutions Logo" 
-                    width={50} 
-                    height={50}
-                    style="padding-right: 10px; padding-left: 30px;"
-            />
-            <span style="color: #000000; background-color: #ffffff; font-size: 40px; font-weight: bold;">T</span>
-            <span style="color: #000000; background-color: #ffffff; font-size: 40px; font-weight: bold;">e</span>
-            <span style="color: #000000; background-color: #ffffff; font-size: 40px; font-weight: bold;">c</span>
-            <span style="color: #000000; background-color: #ffffff; font-size: 40px; font-weight: bold;">h</span>
-            <span style="color: #2486d6; background-color: #ffffff; font-size: 40px; font-weight: bold;">s</span>
-            <span style="color: #000000; background-color: #ffffff; font-size: 40px; font-weight: bold;">o</span>
-            <span style="color: #000000; background-color: #ffffff; font-size: 40px; font-weight: bold;">l</span>
-            <span style="color: #000000; background-color: #ffffff; font-size: 40px; font-weight: bold;">u</span>
-            <span style="color: #000000; background-color: #ffffff; font-size: 40px; font-weight: bold;">t</span>
-            <span style="color: #2486d6; background-color: #ffffff; font-size: 40px; font-weight: bold;">i</span>
-            <span style="color: #000000; background-color: #ffffff; font-size: 40px; font-weight: bold;">o</span>
-            <span style="color: #000000; background-color: #ffffff; font-size: 40px; font-weight: bold;">n</span>
-            <span style="color: #2486d6; background-color: #ffffff; font-size: 40px; font-weight: bold;">s</span>
-            
-        
-        </div>
       <p>
         Optimiza tus procesos y mejora la eficiencia de tu empresa con nuestras 
         soluciones personalizadas de software y soporte técnico.
       </p>
       <a href="#contacto" class="cta-button">Contáctanos</a>
     </div>
-  </section>
-  
-  <style>
+</section>
+
+<style>
     .hero {
       padding: 8rem 2rem;
       text-align: center;
       margin-top: 4rem;
+      overflow-x: hidden;
     }
   
     .container {
@@ -54,13 +59,26 @@ import techSolutionsLogo from '../assets/logo.png';
 
     .logo-container {
       margin-bottom: 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 1rem;
+      font-size: 1.8rem;
+      font-weight: 700;
+      color: var(--primary-color);
     }
 
     .logo {
-      max-width: 300px;
-      height: auto;
-      border-radius: 10px;
+      width: 180px;
+      height: 180px;
+      border-radius: 8px;
       box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    .hero-title {
+      font-size: 1.8rem;
+      font-weight: 700;
+      color: var(--primary-color);
     }
   
     h1 {
@@ -92,11 +110,16 @@ import techSolutionsLogo from '../assets/logo.png';
 
     @media (max-width: 768px) {
       .logo {
-        max-width: 200px;
+        width: 150px;
+        height: 50px;
+      }
+
+      .hero-title {
+        font-size: 1.5rem;
       }
 
       h1 {
         font-size: 2rem;
       }
     }
-  </style>
+</style>
