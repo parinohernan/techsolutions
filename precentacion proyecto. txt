@@ -1,0 +1,253 @@
+1-INTRODUCCION
+
+El trabajo que se presenta a continuación consiste en el desarrollo de un Diagnóstico Empresarial para "TechSolutions", en la localidad de Darregueira, ubicada en la provincia de Buenos Aires. En este lugar se localiza una oportunidad causada por la demandainsatisfecha de servicios tecnológicos especializados en la gestión y optimización de procesos para pequeñas y medianas empresas (PYMES). Surge así la alternativa de desarrollar un proyecto que ofrezca soluciones tecnológicas personalizadas y soporte técnico a estas empresas, con el objetivo de mejorar su eficiencia y competitividad en el mercado.
+
+El proyecto, denominado "TechSolutions", tiene como objetivo principal brindar servicios de consultoría tecnológica y desarrollo de soluciones informáticas a PYMES de la región, aprovechando las oportunidades que ofrece el mercado y respondiendo a las necesidades específicas de estas empresas. A lo largo de este documento, se presentarán los antecedentes y justificación del proyecto, los objetivos y alcances, la descripción de los servicios ofrecidos, el estudio de mercado y la estimación de ventas, así como los aspectos organizativos, técnicos y financieros del mismo.
+
+
+ 
+2- OBJETIVOS
+
+•	Aumentar la cantidad de clientes durante los primeros 4 años, actualmente, septiembre de 2024, se cuenta con 4 PYMES que utilizan el sistema y se aspira a obtener un crecimiento sostenido en los próximos años.
+
+Año	Número de clientes pymes
+2024	4
+2025	8
+2026	16
+2027	32
+2028	44
+
+•	Desarrollar productos y soluciones para otros sectores económicos. Promocionar la empresa en ferias de comercios y eventos online.
+•	Crear eventos o charlas para mostrar los servicios.
+•	Mejorar el servicio integrando las más recientes tecnologías como la inteligencia artificial. 
+•	Incorporar socios para ampliar servicios.
+•	Establecer una oficina física. En un futuro esto podría contribuir a una mejor visibilidad de la marca y facilitar el acceso a clientes que valoran la atención precencial.
+ 
+3- ANTECEDENTES
+En la región de Darregueira y alrededores, el sector empresarial PYME ha experimentado una creciente necesidad de digitalización y modernización de sus procesos desde la última década. Esta transformación se ha visto acelerada por diversos factores:
+•	La implementación obligatoria de la facturación electrónica (RG 3749/2015) que forzó a muchas empresas a buscar soluciones tecnológicas.
+•	El crecimiento del comercio electrónico y las preventas online, especialmente intensificado en los últimos años.
+•	La carencia de profesionales especializados en temas tecnológicos que comprendan las necesidades específicas de las PYMES de la región.
+En este contexto, TechSolutions surgió en 2014 como respuesta a estas necesidades, cuando su fundador, identificó la oportunidad de brindar soluciones tecnológicas personalizadas y soporte técnico a empresas locales.
+Desde su inicio, la empresa ha evolucionado junto con sus clientes, desarrollando productos específicos como el software de gestión y facturación, y una aplicación móvil para vendedores, que se han convertido en sus productos estrella. La trayectoria de TechSolutions demuestra un crecimiento sostenido, pasando de brindar servicios básicos de soporte técnico a convertirse en un socio tecnológico integral para sus clientes.
+ 
+4- JUSTIFICACION DEL PROYECTO
+1.	Demanda Insatisfecha:
+o	Existe una clara necesidad en el mercado de PYMES locales que requieren soluciones tecnológicas adaptadas a sus necesidades específicas.
+o	La región carece de proveedores de servicios tecnológicos que ofrezcan un acompañamiento personalizado y de confianza.
+2.	Oportunidad de Mercado:
+o	La proyección de crecimiento muestra un potencial significativo, pasando de 4 clientes PYMES en 2024 a 44 en 2028.
+o	Los ingresos estimados indican un crecimiento sustancial, desde $3.360.000 en 2024 hasta $14.688.000 en 2028.
+3.	Ventajas Competitivas:
+o	Modelo de negocio flexible que permite operar remotamente, reduciendo costos operativos.
+o	Conocimiento del sector, el dueño realizo varias capacitaciones como la de Técnico Universitario en Emprendimientos Informáticos de UPSO que es brinda un mix de conocimientos técnicos y administrativos.
+o	Experiencia comprobada en el desarrollo de soluciones específicas para PYMES.
+o	Estructura organizacional liviana que permite mantener costos competitivos.
+4.	Viabilidad Técnica y Económica:
+o	La infraestructura y equipamiento necesarios no requieren una inversión inicial significativa.
+o	El régimen de Monotributo permite una gestión fiscal simplificada y económica.
+o	Los márgenes de rentabilidad proyectados son atractivos y sostenibles.
+5.	Impacto Social y Económico:
+o	Contribuye a la modernización y competitividad de las PYMES locales.
+o	Genera valor agregado en la región a través de la implementación de tecnologías innovadoras.
+o	Promueve la transformación digital del tejido empresarial local.
+La combinación de estos factores respalda la viabilidad y pertinencia del proyecto, demostrando que TechSolutions no solo responde a una necesidad real del mercado, sino que también presenta un modelo de negocio sostenible con potencial de crecimiento significativo.
+
+ 
+5- ESTUDIO DE MERCADO.
+
+La empresa de consultoría en tecnología "TechSolutions" se especializa en brindar soluciones y soporte a PYMES.
+El servicio principal es desarrollo y mantenimiento de software (programas, landing page, ecommerce y aplicaciones web) 
+El propósito es ayudar a quienes contraten los serviciosa optimizar sus procesos, mejorar su eficiencia y alcanzar sus objetivos comerciales a través de la implementación estratégica de tecnología de la información y comunicación.
+
+5.1: La oferta.
+
+Durante los inicios, para satisfacer a los primeros clientes, se desarrolló un software de gestión y facturación y una aplicación móvil para vendedores. Estos son los productos estrella que tienen que ser mantenidos y mejorados continuamente. 
+El servicio se divide en tres etapas:
+La primera es la toma de requerimiento y desarrollo de funcionalidades extra ya que a veces es necesario adaptar el sistema y los procesos de la empresa. 
+En segundo lugar, la instalación del sistema, pruebas y capacitación del personal. 
+Y por último se pasa a producción, donde el rol de TechSolutions es el de soporte técnico.
+Uno de los objetivos de este trabajo es ampliar la oferta agregando servicios de programación de sitios web y otras aplicaciones, venderlos a los clientes actuales y atraer nuevos. 
+
+5.2: Los Clientes.
+
+Son pequeñas empresas de hasta 20 empleados, que no disponen de un departamento de informática y necesitan adaptarse para mejorar sus procesos (como preventas online), o para cumplir con normativas y requerimientos (como la facturación electrónica  RG 3749/2015).
+Se localizan en la región en Darregueira, Carhué y San Martin. Es un aspecto importante la confianza que se les brinda a los clientes, generándose difusión “de boca en boca”. Al no existir barreras de distancia para prestar el servicio, potencialmente se pueden tener clientes de otros países.
+
+5.3: Estimación de la demanda:
+
+Se cuenta actualmente con 4 clientes y se espera un escenario positivo, previendo que la demanda aumente durante los próximos años. Se intentará ampliar la cartera de clientes con técnicas como participación en Linkedin, Facebook, Instagram, X, y creando la web de la empresa. https://hernanparino.netlify.app/que son herramientas sin costo.
+
+ESTIMACION DE LA DEMANDA 
+Año	2024	2025	2026	2027	2028
+Clientes totales	4  	8  	16  	32  	44
+Clientes nuevos 	4	4	8	16	12
+
+ 
+6- ESTUDIO ORGANIZACIONAL Y TECNICO.
+Dado que el emprendimiento es gestionado y operado por el dueño de manera individual, la estructura organizacional es sencilla y flexible. Este modelo permite al propietario tener control directo sobre todas las operaciones y reducir costos fijos al subcontratar ciertos servicios según las necesidades del negocio.
+Estructura Organizativa
+Propietario y Operador Principal:
+•	El dueño asume todas las funciones operativas, administrativas y de servicio al cliente, con la responsabilidad de coordinar todos los aspectos del negocio.
+•	Es el encargado de la relación con los clientes, el desarrollo y la entrega de los servicios, la gestión de calidad y la supervisión de cualquier subcontratación.
+•	Realiza tareas de marketing, atención al cliente y administración general, adaptándose a las demandas de cada proyecto.
+Servicios Subcontratados
+Distintos profesionales, amigos del propietario de la empresa, brindaran algunos servicios clave.
+En los primeros años no tendrán costo monetario, ya que se realizará un intercambio de servicios profesionales, que se irán desarrollando a medida que surjan las necesidades.
+•	Marketing Digital:
+o	Para campañas de marketing digital, posicionamiento en redes sociales y gestión de la imagen de marca, se subcontratará a un profesional o agencia de marketing digital en modalidad freeLancer.
+o	Este servicio será utilizado principalmente para aumentar la visibilidad del negocio, captar nuevos clientes y mantener presencia en canales relevantes para el público objetivo.
+•	Gestoría Contable y Fiscal:
+o	La contabilidad y el cumplimiento de obligaciones fiscales (como el Monotributo) serán gestionados por un contador o gestor especializado, contratado de forma externa.
+o	Este profesional se encargará de presentar declaraciones fiscales, mantener al día las obligaciones tributarias y asesorar al dueño en temas financieros y fiscales para optimizar los recursos.
+
+Proceso de producción
+
+A continuación, se describen las acciones que se realizan al contactar con personas interesadas en adquirir los servicios de la empresa.
+
+Paso 1: Contacto con el cliente
+El proceso de producción de TechSolutions comienza con el contacto con el cliente. Esto puede ocurrir a través de diferentes canales, como correo electrónico, llamadas telefónicas, pero generalmente son mensajes de WhatsApp. En este paso, se presenta la empresa y se ofrecen los servicios para ayudar a quien consulta a resolver sus problemas informáticos.
+Posteriormente se acuerda una reunión online o presencial para mostrar el servicio y conocer los requerimientos del cliente.
+En esta reunión, se exponen las necesidades y se identifican las posibles soluciones que se pueden ofrecer.
+
+Paso 2: Toma de requerimientos y presupuesto
+Una vez que se estableció contacto con el cliente y se ha acordado una reunión, el paso siguiente es tomar nota de los requerimientos del proyecto. Esto implica realizar preguntas más específicas y recopilar información sobre las Necesidades, objetivos y expectativas de quien realiza la consulta.
+El paso siguiente es la formulación de preguntas sobre el negocio del cliente, sus procesos y sus objetivos.
+Se recopila información sobre las tecnologías y sistemas que utilizaactualmente.
+Por otro lado se identifican las necesidades y los problemas que el cliente quiere resolver.
+A partir de allí se realiza un presupuesto detallado que incluye:
+•	Los alcances del sistema.
+•	Las responsabilidades de cada parte.
+•	Los plazos y fechas de entrega.
+•	Los costos y formas de pago.
+
+El presupuesto se envía al cliente en formato PDF para su revisión y aprobación.
+
+Pasó 3: Desarrollo
+Con los requerimientos y el presupuesto aprobados, se comienza a desarrollar la solución. Esto puede incluir la creación de nuevas funcionalidades para el sistema de gestión de recursos empresariales (ERP), el diseño de un sitio web o la creación de un ecommerce.
+En este paso, se lleva a cabo una investigación para seleccionar las tecnologías y herramientas más adecuadas para el proyecto. Se evalúan las opciones disponibles, considerando factores como la escalabilidad, la seguridad, la compatibilidad y la facilidad de uso. 
+Una vez que se han seleccionado las tecnologías y herramientas, se diseña la arquitectura del software y se crea un plan de desarrollo detallado. Este plan incluye la definición de los objetivos, los plazos y los recursos necesarios para cada etapa del proyecto. 
+Con el plan de desarrollo en mano, se comienza a desarrollar el producto utilizando metodologías ágiles y técnicas de programación eficientes. Se trabaja en estrecha colaboración con el cliente para asegurarse de que la solución se ajuste a sus necesidades y expectativas. Se realizan pruebas y validaciones periódicas para detectar y corregir cualquier error o problema que pueda surgir durante el desarrollo.
+De esta manera, se garantiza un software robusto, escalable y seguro, y que cumpla con los objetivos y expectativas del cliente.
+
+Paso 4: Prueba y Producción
+Una vez que producto ha sido desarrollado, se procede a probarlo para asegurarse de que funcione correctamente y cumpla con los requerimientos del cliente. Luego, se pone en marcha, se realizan las configuraciones y ajustes finales para asegurarse de que todo esté funcionando correctamente.
+Se proporciona capacitación y soporte al cliente con el objetivo de que esté cómodo utilizando el sistema. De esta manera, se garantiza que el software esté listo para ser utilizado y que el cliente pueda aprovechar al máximo sus beneficios.
+
+Paso 5: Mantenimiento
+Finalmente, se proporciona mantenimiento y soporte continuo. Esto implica realizar actualizaciones, realizar ajustes y asegurarse de que el sistema siga funcionando correctamente.
+Se proporciona acompañamiento continuo al cliente para responder a preguntas y resolver problemas que puedan surgir.
+
+Modalidad de Trabajo
+•	Home Office: El dueño operará de manera remota, aprovechando herramientas digitales para la comunicación y la gestión de proyectos, como Trello o Asana para organizar tareas y procesos.
+•	Herramientas de Atención al Cliente: Las consultas y proyectos de clientes se gestionarán principalmente a través de correo electrónico, mensajería instantánea (como WhatsApp o Slack) y video llamadas en Zoom o Google Meet. Esto permite mantener una comunicación ágil sin necesidad de una oficina física.
+Espacio de trabajo
+
+La oficina es un lugar asignado en la casa de familia, de aproximadamente 10 metros cuadrados. La habitación está iluminada y cuenta con una ventana que permite la ventilación.
+ 
+7- ESTUDIO FINANCIERO
+
+Muebles y equipamiento
+Un escritorio de madera con una superficie de trabajo de aproximadamente 1,5 metros de ancho y 0,8 metros de profundidad. $123.000
+Una silla ergonómica para trabajar con comodidad durante largas horas. $ 90.000
+Una mesa auxiliar y silla común. $ 100.000
+Una biblioteca para almacenar libros, documentos y equipos. $ 90.000
+
+Herramientas y equipos
+Un PC portátil con un procesador Intel i7, 16 GB de RAM y un disco duro de 1Tb GB. $ 1.100.000
+Un monitor de 24 pulgadas con resolución Full HD (1080p).  $ 250.000
+Un teclado mecánico y un ratón óptico para una mayor comodidad y precisión. $ 80.000.
+Un sistema de sonido con altavoces y auriculares. $ 75.000
+Una impresora multifuncional para imprimir, escanear y copiar documentos. $ 320.000
+ 
+Anexo Tabla Calculo Inversión y Amortización, TechSolutions calculos.xlsx 
+
+
+
+
+
+
+Nota: La amortización se calculó individualmente considerando el período de años para la depreciación de cada activo. La amortización anual se calculó dividiendo el costo total de cada activo por el número de años de depreciación.
+
+Total Inversión: $2.328.000
+Total Amortización Anual: $144.120
+
+Software y herramientas de desarrollo
+Software y herramientas de desarrollo: Se utiliza software libre y gratuito.
+VS-Code. Servicios gratuitos de google (drive, docs, meet, gmail, trello).
+
+Servicios y costos estimados
+
+Los costos variables son aquellos que cambian en relación con el nivel de actividad. Para este proyecto el único costo variable es la mano de obra que el dueño cobrará al brindar los servicios. El costo será un 65% de los ingresos de la empresa. 
+
+El 35% restante incrementará el capital de la empresa y se afrontarán los costos fijos.
+
+Los costos fijos se mantienen constantes sin importar la cantidad producida:
+Conexión a Internet: $ 8.000  por mes cooperativa eléctrica
+Electricidad: $8.000 por mes cooperativa eléctrica.
+ 
+Anexo:Tabla Costos Fijos,TechSolutions calculos.xlsx
+
+
+Para estimar las ventas se definieron 3 clases de servicios y un precio de cada uno.
+
+
+ 
+
+Dado que las soluciones que se pueden desarrollar, se adecuan a necesidades muy variadas y pueden ser inesperadas, para una estimación de ingresos se decidió  calcular el valor monetario de la hora de trabajo, siendo el mismo de $6.000. Esto surge de consultar el valor aproximado de la hora de un empleado de comercio, ya que es una alternativa desechada como fuente laboral, significando un costo de oportunidad al tomar la decisión de llevar el proyecto adelante, considerando que el mismo implica riesgos y responsabilidades es que surge la diferencia entre el valor consultado ($4.350) y el determinado para el proyecto ($6.000).
+Aclaraciones: son bastante frecuentes los trabajos en horarios no comerciales debido a que sin sistema muchas veces se para o demora la cadena de producción, se cobra un plus por estos trabajo, aquí no se refleja.
+Ingresos por año en $:
+ 
+
+Los ingresos están relacionados en forma lineal con la carga horaria de los trabajos. En este cuadro se representa la carga horaria estimada y esperada para cada año, el fin es conocer si es humanamente posible llegar a los objetivos sin personal extra.
+ 
+ 
+
+Flujo neto de fondos e indicadores de rentabilidad
+
+Acontinuación se expone el Flujo Neto de Fondos.
+ Anexo:Tabla Flujo Neto, TechSolutions calculos.xlsx
+
+En este cuadro se encuentran expresados en términos monetarios ingresos y erogaciones de los cinco años de planeamiento de la empresa y cuyo análisis detallado se presentó en los apartados anteriores.
+7.1 Indicadores de Rentabilidad.
+ 
+A partir de la información sintetizada en el flujo neto de fondos, se pueden aplicar algunos criterios simples para evaluar la rentabilidad del proyecto: 
+El Valor Actual Neto (VAN) permite calcular el valor presente del flujo de fondos presentado anteriormente, originados por la inversión realizada. Descuenta al momento actual, es decir, actualiza mediante una tasa dada, todos los flujos futuros del proyecto. A este valor se le resta la inversión inicial, de tal modo que el valor obtenido es el valor actual neto del proyecto. 
+TASA de descuento: en este caso del 40% (es superior a la tasa de interés que pagan hoy 02/12/2024 los bancos en Argentina)
+
+Este método constituye uno de los criterios económicos más ampliamente utilizados en la evaluación de proyectos de inversión, permite determinar la equivalencia en el año 0, de los flujos de efectivo futuros que genera este proyecto y comparar esta equivalencia con el desembolso inicial. Dado que dicha equivalencia es mayor que el desembolso inicial, entonces, puede decirse que el proyecto es rentable ya que tenemos un VAN mayor a 0. Un aspecto importante de este análisis es la elección de la tasa de descuento a la cual se actualizan los flujos efectivos futuros y los criterios para su selección. La tasa elegida en este caso es del 40% teniendo en cuenta la tasa de interés que otorgaría colocar el valor de la inversión en un plazo fijo, dicha tasa sería entre 23,5% y 37,25% de tasa nominal anual (TNA), por lo que no puede exigírsele al proyecto una tasa inferior a la misma, de otro modo terminaría siendo más conveniente no arriesgar la inversión en el proyecto y colocar ese mismo dinero en algo más seguro como resulta ser un plazo fijo. 
+• La Tasa Interna de Retorno (TIR) es otra herramienta de toma de decisiones de inversión que permite conocer la factibilidad de la inversión y que implica, por cierto el supuesto de una oportunidad para "reinvertir". En términos simples es la tasa de interés con la cual el VAN es igual a cero. Para este proyecto la TIR es del 45%, superior a la tasa de descuento elegida lo que lo convierte en un proyecto rentable.
+
+ 
+8-ESTUDIO NORMATIVO
+8.1. Formato Societario: Empresario Individual bajo el Régimen de Monotributo
+Dado que la facturación proyectada para la empresa no superará los 15.000.000 de pesos anuales, se ha optado por utilizar la figura de Monotributo en el marco del régimen simplificado para pequeños contribuyentes, lo que permite gestionar las obligaciones impositivas de forma centralizada y accesible. El Monotributo permite a una persona física o a ciertos formatos societarios (como sociedades de hecho y cooperativas) consolidar el pago de Impuesto a las Ganancias, IVA, y aportes jubilatorios y de obra social en un único pago mensual, siempre que se mantenga dentro de los límites de facturación y demás requisitos.
+8.2. Tratamiento Impositivo: Categoría D del Monotributo
+Considerando que el ingreso estimado no superará los 15.000.000 de pesos, la empresa se enmarcará en la Categoría D del Monotributo para Locaciones y Prestaciones de Servicios. Las principales especificaciones y costos de esta categoría (actualizados a la última normativa del ARCA (ex AFIP) son:
+•	Ingresos Brutos Anuales Máximos: Hasta 16.450.000 pesos.
+•	Superficie Afectada: Hasta 85 m².
+•	Consumo Energético Máximo Anual: Hasta 10.000 Kw.
+•	Alquileres Devengados Anualmente: Hasta 2.050.000 pesos.
+ 
+Los costos mensuales, que incluyen los componentes de impuesto integrado, aportes a la jubilación y a la obra social, son los siguientes:
+•	Impuesto Integrado: $16.000
+•	Aportes al SIPA (Jubilación): $14.900
+•	Aportes a la Obra Social: $13.043,80
+•	Total Mensual: $45.443,80
+Este monto mensual cubre todas las obligaciones fiscales, jubilatorias y de obra social, ofreciendo una gestión simplificada para el negocio.
+8.2.1. Consideraciones sobre el Régimen de Monotributo
+Es importante tener en cuenta que el régimen de Monotributo impone ciertos límites en cuanto a ingresos brutos y requisitos adicionales, por lo que si en el futuro la facturación anual supera los 16.450.000 pesos, será necesario migrar al régimen de Responsable Inscripto.
+Además, como empresa de desarrollo de software, existe la posibilidad de evaluar una adhesión futura al Régimen de Promoción de la Economía del Conocimiento. Este régimen ofrece beneficios impositivos adicionales a empresas de tecnología y servicios de software, como exenciones en el Impuesto a las Ganancias, que podrían resultar útiles si el negocio crece más allá de los límites permitidos por el Monotributo.
+8.2.2. Impuestos Provinciales y Municipales
+En la provincia de Buenos Aires, la actividad de desarrollo y comercialización de software estará sujeta al Impuesto a los Ingresos Brutos. La alícuota vigente para actividades de servicios es del 3,5%, aplicada sobre el total de los ingresos brutos. Este impuesto puede ser liquidado a través del sistema de Arbanet, el cual permite anticipar pagos mensuales, que luego se ajustan al presentar la Declaración Jurada Anual.
+Para el ámbito municipal, pueden aplicarse tasas adicionales por habilitación y seguridad e higiene, las cuales dependerán de la jurisdicción específica en la cual se registre la empresa.
+ 
+9-CONCLUSIONES
+El presente proyecto, enfocado en el desarrollo y prestación de servicios tecnológicos de manera remota, muestra una gran viabilidad y potencial de crecimiento en el contexto actual del mercado. A continuación, se presentan las conclusiones clave obtenidas de los estudios de mercado, técnico, organizacional, normativo y financiero:
+1.	Viabilidad del Modelo de Negocio: La oferta de servicios tecnológicos en modalidad remota permite optimizar los recursos y reducir costos operativos. Además, se adapta a las necesidades actuales de flexibilidad en los servicios, que es cada vez más valorada por los clientes. La opción de operar remotamente posiciona a la empresa de manera competitiva frente a sus competidores, aprovechando las ventajas de costos reducidos y mayor alcance geográfico.
+2.	Mercado Potencial y Demanda: El análisis de mercado muestra una demanda creciente en el sector tecnológico, particularmente en áreas de soporte y desarrollo tecnológico en empresas que buscan externalizar o mejorar sus procesos. La caracterización de los clientes potenciales sugiere una buena oportunidad de penetración en el mercado, especialmente al ofrecer servicios personalizados que se adaptan a diferentes tipos de empresas.
+3.	Sostenibilidad Financiera: La evaluación económica y financiera indica que la empresa puede alcanzar una rentabilidad sostenible en un plazo razonable. Los ingresos estimados, en combinación con una estructura de costos controlada, generan un flujo de caja positivo que soporta la continuidad de las operaciones y el posible crecimiento futuro. Esto se traduce en una atractiva oportunidad de inversión en el sector.
+4.	Cumplimiento Normativo y Simplificación Fiscal: La elección del régimen de Monotributo proporciona una solución fiscal simplificada que permite cumplir con las obligaciones tributarias de manera eficiente y económica. Este régimen resulta favorable, dado el nivel de facturación estimado y las características de la actividad, permitiendo a la empresa operar dentro de un marco normativo adecuado con costos reducidos.
+5.	Posibilidad de Crecimiento y Expansión: Si bien el negocio se plantea inicialmente como remoto, se contempla la posibilidad de establecer una oficina física a futuro. Esto podría contribuir a una mejor visibilidad de la marca y facilitar el acceso a clientes que valoran una presencia física. La flexibilidad del modelo organizacional y la planificación de inversiones permiten que la empresa pueda escalar sus operaciones cuando las condiciones lo permitan.
+6.	Ventaja Competitiva: En el contexto actual, donde la digitalización y el trabajo remoto son tendencias predominantes, el negocio tiene una ventaja competitiva por su adaptabilidad y costos operativos optimizados. El análisis de los competidores sugiere que la diferenciación del servicio, basada en una atención personalizada y el uso de tecnologías actuales, permitirá capturar una porción significativa del mercado objetivo.
+En conclusión, el proyecto demuestra ser rentable, sostenible y alineado con las tendencias actuales del mercado de servicios tecnológicos. La combinación de un enfoque remoto, cumplimiento normativo adecuado, y una estructura de costos eficiente posiciona a la empresa de manera favorable para captar oportunidades y generar valor a largo plazo. Con una planificación de crecimiento flexible, la empresa tiene el potencial para establecerse como un proveedor confiable en el mercado y expandirse de acuerdo con la su evolución.

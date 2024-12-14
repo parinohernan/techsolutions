@@ -1,0 +1,180 @@
+---
+import { Icon } from '@iconify/react';
+
+const fortalezas = [
+    {
+        icon: "mdi:map-marker",
+        title: "Experiencia Local",
+        description: "Profundo conocimiento de las necesidades específicas de las PYMES de la región."
+    },
+    {
+        icon: "mdi:tools",
+        title: "Soluciones Personalizadas",
+        description: "Desarrollo de software adaptado a cada negocio."
+    },
+    {
+        icon: "mdi:headset",
+        title: "Soporte Continuo",
+        description: "Acompañamiento técnico permanente y capacitación personalizada."
+    },
+    {
+        icon: "mdi:rocket",
+        title: "Tecnología Actualizada",
+        description: "Implementación de las últimas tecnologías, incluyendo inteligencia artificial."
+    }
+];
+---
+
+<section class="nosotros" id="nosotros">
+    <div class="container">
+        <h2>Sobre Nosotros</h2>
+        
+        <div class="main-content">
+            <div class="historia">
+                <div class="card-header">
+                    <Icon client:load icon="mdi:history" width="32" height="32" />
+                    <h3>Nuestra Historia</h3>
+                </div>
+                <p>
+                    TechSolutions nació en 2014 en Darregueira, Buenos Aires, como respuesta 
+                    a la creciente necesidad de digitalización en el sector PYME. Desde entonces, 
+                    hemos evolucionado junto a nuestros clientes, desarrollando soluciones 
+                    específicas como nuestro software de gestión y facturación, y nuestra 
+                    aplicación móvil para vendedores.
+                </p>
+            </div>
+
+            <div class="compromiso">
+                <div class="card-header">
+                    <Icon client:load icon="mdi:handshake" width="32" height="32" />
+                    <h3>Nuestro Compromiso</h3>
+                </div>
+                <p>
+                    Nos dedicamos a impulsar la transformación digital del tejido empresarial 
+                    local, contribuyendo a la modernización y competitividad de las PYMES. 
+                    Nuestro modelo de negocio flexible y estructura organizacional eficiente 
+                    nos permite ofrecer soluciones de alta calidad a precios competitivos.
+                </p>
+            </div>
+        </div>
+
+        <div class="fortalezas-section">
+            <h3 class="fortalezas-title">Nuestras Fortalezas</h3>
+            <div class="fortalezas-grid">
+                {fortalezas.map(fortaleza => (
+                    <div class="fortaleza-card">
+                        <Icon client:load icon={fortaleza.icon} width="32" height="32" />
+                        <h4>{fortaleza.title}</h4>
+                        <p>{fortaleza.description}</p>
+                    </div>
+                ))}
+            </div>
+        </div>
+    </div>
+</section>
+
+<style>
+    .nosotros {
+        padding: 6rem 2rem;
+        background-color: var(--light-bg);
+    }
+
+    .container {
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+
+    h2 {
+        text-align: center;
+        font-size: 2.5rem;
+        margin-bottom: 3rem;
+        color: var(--text-color);
+    }
+
+    .main-content {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 2rem;
+        margin-bottom: 4rem;
+    }
+
+    .historia, .compromiso {
+        padding: 2rem;
+        background: white;
+        border-radius: 0.5rem;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+
+    .card-header {
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+        margin-bottom: 1.5rem;
+        color: var(--primary-color);
+    }
+
+    h3 {
+        color: var(--primary-color);
+        margin-bottom: 1rem;
+        font-size: 1.5rem;
+    }
+
+    .fortalezas-section {
+        margin-top: 4rem;
+    }
+
+    .fortalezas-title {
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+
+    .fortalezas-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 1.5rem;
+    }
+
+    .fortaleza-card {
+        padding: 1.5rem;
+        background: white;
+        border-radius: 0.5rem;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        text-align: center;
+        transition: transform 0.3s ease;
+    }
+
+    .fortaleza-card:hover {
+        transform: translateY(-5px);
+    }
+
+    .fortaleza-card h4 {
+        color: var(--primary-color);
+        margin: 1rem 0;
+        font-size: 1.2rem;
+    }
+
+    .fortaleza-card p {
+        font-size: 0.95rem;
+        line-height: 1.5;
+    }
+
+    p {
+        margin-bottom: 1rem;
+        line-height: 1.6;
+        color: var(--text-color);
+    }
+
+    @media (max-width: 768px) {
+        .nosotros {
+            padding: 4rem 1rem;
+        }
+
+        .main-content {
+            grid-template-columns: 1fr;
+        }
+
+        .fortalezas-grid {
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        }
+    }
+</style>

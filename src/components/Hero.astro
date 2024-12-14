@@ -1,0 +1,102 @@
+---
+import { Image } from 'astro:assets';
+import techSolutionsLogo from '../assets/logo.png';
+---
+
+<section class="hero">
+  <div class="container">
+    <div class="container">
+      <h1>Soluciones Tecnológicas para PYMES</h1>
+        <div class="logo-container" style="width: 505px; height: 50px; padding-left: 10px;">
+            
+                <Image 
+                    src={techSolutionsLogo} 
+                    alt="TechSolutions Logo" 
+                    width={50} 
+                    height={50}
+                    style="padding-right: 10px; padding-left: 30px;"
+            />
+            <span style="color: #000000; background-color: #ffffff; font-size: 40px; font-weight: bold;">T</span>
+            <span style="color: #000000; background-color: #ffffff; font-size: 40px; font-weight: bold;">e</span>
+            <span style="color: #000000; background-color: #ffffff; font-size: 40px; font-weight: bold;">c</span>
+            <span style="color: #000000; background-color: #ffffff; font-size: 40px; font-weight: bold;">h</span>
+            <span style="color: #2486d6; background-color: #ffffff; font-size: 40px; font-weight: bold;">s</span>
+            <span style="color: #000000; background-color: #ffffff; font-size: 40px; font-weight: bold;">o</span>
+            <span style="color: #000000; background-color: #ffffff; font-size: 40px; font-weight: bold;">l</span>
+            <span style="color: #000000; background-color: #ffffff; font-size: 40px; font-weight: bold;">u</span>
+            <span style="color: #000000; background-color: #ffffff; font-size: 40px; font-weight: bold;">t</span>
+            <span style="color: #2486d6; background-color: #ffffff; font-size: 40px; font-weight: bold;">i</span>
+            <span style="color: #000000; background-color: #ffffff; font-size: 40px; font-weight: bold;">o</span>
+            <span style="color: #000000; background-color: #ffffff; font-size: 40px; font-weight: bold;">n</span>
+            <span style="color: #2486d6; background-color: #ffffff; font-size: 40px; font-weight: bold;">s</span>
+            
+        
+        </div>
+      <p>
+        Optimiza tus procesos y mejora la eficiencia de tu empresa con nuestras 
+        soluciones personalizadas de software y soporte técnico.
+      </p>
+      <a href="#contacto" class="cta-button">Contáctanos</a>
+    </div>
+  </section>
+  
+  <style>
+    .hero {
+      padding: 8rem 2rem;
+      text-align: center;
+      margin-top: 4rem;
+    }
+  
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    .logo-container {
+      margin-bottom: 2rem;
+    }
+
+    .logo {
+      max-width: 300px;
+      height: auto;
+      border-radius: 10px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+  
+    h1 {
+      font-size: 3rem;
+      margin-bottom: 1.5rem;
+      color: var(--text-color);
+    }
+  
+    p {
+      font-size: 1.25rem;
+      margin-bottom: 2rem;
+      color: var(--text-color);
+    }
+  
+    .cta-button {
+      display: inline-block;
+      padding: 1rem 2rem;
+      background: var(--primary-color);
+      color: white;
+      text-decoration: none;
+      border-radius: 0.5rem;
+      font-weight: 500;
+      transition: background 0.3s ease;
+    }
+  
+    .cta-button:hover {
+      background: var(--secondary-color);
+    }
+
+    @media (max-width: 768px) {
+      .logo {
+        max-width: 200px;
+      }
+
+      h1 {
+        font-size: 2rem;
+      }
+    }
+  </style>

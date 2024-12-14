@@ -1,0 +1,90 @@
+---
+import { Icon } from '@iconify/react';
+
+const services = [
+  {
+    icon: "mdi:desktop-classic",
+    title: "Software de Gestión",
+    description: "Sistema ERP personalizado para optimizar tus procesos empresariales"
+  },
+  {
+    icon: "mdi:cellphone",
+    title: "Aplicaciones Móviles",
+    description: "Soluciones móviles para vendedores y gestión en movimiento"
+  },
+  {
+    icon: "mdi:web",
+    title: "Desarrollo Web",
+    description: "Sitios web y e-commerce adaptados a tus necesidades"
+  }
+];
+---
+
+<section id="servicios" class="services">
+  <div class="container">
+    <h2>Nuestros Servicios</h2>
+    <div class="services-grid">
+      {services.map(service => (
+        <div class="service-card">
+          <div class="icon-wrapper">
+            <Icon client:load icon={service.icon} width="48" height="48" />
+          </div>
+          <h3>{service.title}</h3>
+          <p>{service.description}</p>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>
+
+<style>
+  .services {
+    padding: 4rem 2rem;
+    background: var(--light-bg);
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  h2 {
+    text-align: center;
+    margin-bottom: 3rem;
+    font-size: 2.5rem;
+  }
+
+  .services-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+  }
+
+  .service-card {
+    background: white;
+    padding: 2rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    text-align: center;
+    transition: transform 0.3s ease;
+  }
+
+  .service-card:hover {
+    transform: translateY(-5px);
+  }
+
+  .icon-wrapper {
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+  }
+
+  .service-card h3 {
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+  }
+
+  .service-card p {
+    color: var(--text-color);
+    line-height: 1.6;
+  }
+</style>
